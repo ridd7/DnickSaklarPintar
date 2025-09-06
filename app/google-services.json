@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "631302770183",
+    "firebase_url": "https://smart-switch-dnick-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-switch-dnick",
+    "storage_bucket": "smart-switch-dnick.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631302770183:android:a65a7666c0348beca4a4a2",
+        "android_client_info": {
+          "package_name": "com.example.dnicksaklarpintar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuAqAz9p0T8z8el72NF3JEdOC6gg0B5-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
